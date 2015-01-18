@@ -1,0 +1,16 @@
+{
+  "name": "today",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daria, dashka.kh",
+  "license": "BSD",
+  "dependencies": {
+    "body-parser": "^1.9.0",
+    "debug": "~0.7.2",
+    "express": "^4.9.5"
+  }
+}
